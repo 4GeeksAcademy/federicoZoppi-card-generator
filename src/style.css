@@ -1,5 +1,19 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+ @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
+} 
+
+ #numero {
+    font-size: 10rem;
+} 
+
+
+#el-dado-vuelta
+{ transform: rotate(180deg);
 }
+
+.card{
+    border-radius: 30px;
+}
+
